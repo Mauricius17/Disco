@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Maurice/Desktop/Spigot/Versionen/Spigot/Spigot 1.8 02.02.2015.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Maurice/Desktop/Spigot/APIS/EffectLib/Effectlib 3.0/EffectLib-3.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
