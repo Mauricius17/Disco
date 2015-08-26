@@ -29,5 +29,3 @@ Locations: /set sphere <1|2> - Sphere Effekte setzen
 Anschließend können die einzelnen Knöpfe verwendet werden. Mit einem Stick und einem Papier kann man den Fake Spieler (also den DJ) spawnen. Mit dem Apfel die noch fehlerhafte Leiche.
 
 Das Plugin darf für den Eigengebrauch weiter entwickelt werden und auf den eigenen Servern installiert sein. Es ist nicht gestattet die Inhalte dieses Plugins weiter zu verbreiten!
-
-Den Code von dem FakePlayer könnt ihr euch auch hier erklären lassen: https://www.youtube.com/user/Ingrim4
